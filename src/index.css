@@ -1,0 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,400&display=swap');
+
+:root{
+  --bg-main: #131722;
+  --color-main:#fff;
+  --light-bg:#24baef;
+  --border-color: #949cb0;
+
+}
+
+body{
+  background-color: #272B30;
+  color: var(--color-main);
+  font-family: 'Montserrat', sans-serif !important;
+}
+.brdr{
+  background-color: var(--border-color);
+  height: 1px;
+
+}
+
+nav{
+  color: var(--color-main) !important;
+
+}
+h3{
+  color: var(--light-bg);
+}
+footer{
+  background-color : var(--bg-main)
+}
+
+
+.card img{
+  opacity: 0.6;
+  transition: all 1s;
+}
+.card{
+  height: 350px;
+  color: white !important;
+  padding: 10px;
+
+  background-color: #272B30;
+  transition: all 0.5s;
+
+
+}
+.card:hover .btn{
+  background-color: #0D6EFD;
+
+
+}
+.card:hover{
+  transform: scale(1.1,1.1);
+
+}
+.card:hover img{
+  opacity: 1;
+
+}
+.card h5{
+  font-family:"Nerko One";
+}
+
+.card p{
+  color: #808285;
+  text-align: center;
+}
+.btn{
+  width: 80px;
+  background-color: #092faa57;
+  transition: 1s;
+}
+
+.badge{
+  border: solid 1px #32383E;
+}

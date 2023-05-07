@@ -1,0 +1,40 @@
+
+.card img{
+    opacity: 0.6;
+    transition: all 1s;
+}
+.card{
+    height: 380px;
+    color: white !important;
+
+    background-color: #272B30;
+    transition: all 0.5s;
+
+
+}
+.card:hover .btn{
+    background-color: #0D6EFD;
+
+
+}
+.card:hover{
+    transform: scale(1.1,1.1);
+
+}
+.card:hover img{
+    opacity: 1;
+
+}
+.card h5{
+    font-family:"Nerko One";
+}
+
+.card p{
+    color: #808285;
+    text-align: center;
+}
+.btn{
+    width: 55px;
+    background-color: #092faa57;
+    transition: 1s;
+}

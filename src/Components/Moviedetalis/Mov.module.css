@@ -1,0 +1,12 @@
+
+.badge{
+    border: solid 1px #32383E;
+    text-decoration: none;
+    padding: 5px;
+    width: 60%;
+    margin-right: 19%;
+    border-radius: 20px;
+    text-align: center;
+    background-color: #4799EB;
+    color: white;
+}
