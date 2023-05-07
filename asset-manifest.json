@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Trend/static/css/main.a56670b3.css",
+    "main.js": "/Trend/static/js/main.82d43207.js",
+    "static/js/787.7f320c1d.chunk.js": "/Trend/static/js/787.7f320c1d.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Trend/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/wraper.png": "/Trend/static/media/wraper.0fddd1fbe0a5e0a0af93.png",
+    "static/media/gaming.jpg": "/Trend/static/media/gaming.ebaf2ffc84f4451d.d5751ff804c935b205d3.jpg",
+    "static/media/fa-brands-400.ttf": "/Trend/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/logo.png": "/Trend/static/media/logo.548dc5719c2345c22eef.png",
+    "static/media/fa-solid-900.woff2": "/Trend/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/Trend/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/Trend/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/Trend/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Trend/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Trend/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/Trend/index.html",
+    "main.a56670b3.css.map": "/Trend/static/css/main.a56670b3.css.map",
+    "main.82d43207.js.map": "/Trend/static/js/main.82d43207.js.map",
+    "787.7f320c1d.chunk.js.map": "/Trend/static/js/787.7f320c1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a56670b3.css",
+    "static/js/main.82d43207.js"
+  ]
+}
